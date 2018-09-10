@@ -1,0 +1,2 @@
+;;; -*- no-byte-compile: t -*-
+(define-package "typed-clojure-mode" "1.0.0" "Typed Clojure minor mode for Emacs" '((clojure-mode "2.1.1") (cider "0.5.0")) :commit "00bc20db78901204a67722ab47482660e36d0463" :authors '(("John Walker <john.lou.walker@gmail.com>, Ambrose Bonnaire-Sergeant" . "abonnairesergeant@gmail.com")) :maintainer '("John Walker <john.lou.walker@gmail.com>, Ambrose Bonnaire-Sergeant" . "abonnairesergeant@gmail.com") :url "https://github.com/typedclojure/typed-clojure-mode")
